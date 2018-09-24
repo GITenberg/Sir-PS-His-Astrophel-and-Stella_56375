@@ -1,0 +1,26 @@
+_repo: Sir-PS-His-Astrophel-and-Stella_56375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sidney, Philip
+    aliases:
+    - Sydney, Philip
+    - Sidney, Philip, Sir
+    birthdate: 1554
+    deathdate: 1586
+    gutenberg_agent_id: '764'
+    url: http://www.gutenberg.org/2009/agents/764
+    wikipedia: http://en.wikipedia.org/wiki/Sir_Philip_Sidney
+description: ''
+gutenberg_issued: '2018-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sir P.S.: His Astrophel and Stella'
+url: http://www.gutenberg.org/ebooks/56375
